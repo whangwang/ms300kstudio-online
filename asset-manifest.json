@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.fe6aded6.css",
-  "main.css.map": "static/css/main.fe6aded6.css.map",
-  "main.js": "static/js/main.722b17cf.js",
-  "main.js.map": "static/js/main.722b17cf.js.map",
+  "main.css": "static/css/main.38b97003.css",
+  "main.css.map": "static/css/main.38b97003.css.map",
+  "main.js": "static/js/main.e62d2ebd.js",
+  "main.js.map": "static/js/main.e62d2ebd.js.map",
   "static/media/deco-logo.svg": "static/media/deco-logo.4ae991e2.svg",
   "static/media/down-arrow.svg": "static/media/down-arrow.a581612e.svg",
   "static/media/icon-coding.svg": "static/media/icon-coding.a93ec992.svg",
@@ -10,6 +10,7 @@
   "static/media/icon-ui.svg": "static/media/icon-ui.8879724a.svg",
   "static/media/k-logo.svg": "static/media/k-logo.afd489bc.svg",
   "static/media/landing-logo.svg": "static/media/landing-logo.97be71f4.svg",
+  "static/media/menu-icon.svg": "static/media/menu-icon.694d1989.svg",
   "static/media/title-mark-left.svg": "static/media/title-mark-left.e06a52f1.svg",
   "static/media/title-mark-right.svg": "static/media/title-mark-right.dbf01416.svg"
 }
